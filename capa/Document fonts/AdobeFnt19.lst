@@ -1,0 +1,49 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MostraOneBold
+FamilyName:MostraOneBold
+StyleName:Regular
+MenuName:MostraOneBold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MostraOneBold
+WritingScript:Roman
+OutlineFileName:\MostraOneBold Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52924
+FileModTime:1590643580
+NameArray:0,Mac,4,MostraOneBold
+NameArray:0,Win,1,MostraOneBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Rokkitt-Medium
+FamilyName:Rokkitt
+StyleName:Medium
+MenuName:Rokkitt Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Rokkitt Medium
+WritingScript:Roman
+OutlineFileName:\Rokkitt-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69624
+FileModTime:1311724800
+NameArray:0,Win,1,Rokkitt Medium
+NameArray:0,Win,16,Rokkitt
+%EndFont
+
